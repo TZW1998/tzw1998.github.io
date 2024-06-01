@@ -22,10 +22,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zhiwei Tang"
-  avatar           : "images/zhiwei.png"
-  bio              : "PhD Student, The Chinese University of Hong kong, Shenzhen"
+  avatar           : "images/zhiwei2.png"
+  bio              : "PhD Student"
   location         : 
-  employer         :
+  employer         : The Chinese University of Hong kong, Shenzhen
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=GN-N9c8AAAAJ&hl=en"
   email            : "zhiweitang1@link.cuhk.edu.cn"
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : https://github.com/TZW1998 # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : https://www.linkedin.com/in/zhiwei-10a019181/ # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : https://twitter.com/home
   vine             :
   weibo            :
   xing             :

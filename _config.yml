@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhiwei Tang"
-description              : "This is homepage for Zhiwei Tang "
+description              : "Wellcome to my homepage!"
 repository               : "TZW1998/tzw1998.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhiwei Tang"
   avatar           : "images/zhiwei2.png"
-  bio              : "PhD Student"
+  bio              : "PhD Student in Computer Science, The Chinese University of Hong kong, Shenzhen"
   location         : 
-  employer         : The Chinese University of Hong kong, Shenzhen
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=GN-N9c8AAAAJ&hl=en"
   email            : "zhiweitang1@link.cuhk.edu.cn"

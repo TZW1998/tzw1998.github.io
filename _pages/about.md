@@ -27,7 +27,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 Just made my homepage..
+- *2024.05*: &nbsp;🎉 Just made my homepage...
  
 
 # 📝 Publications and Preprints

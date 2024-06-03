@@ -47,6 +47,9 @@ My research interest includes neural machine translation and computer vision. I 
 
   <u>Zhiwei Tang</u>, Jiangweizhi Peng, Jiasheng Tang, Mingyi Hong, Fan Wang, Tsung-Hui Chang
 
+  <a href="https://arxiv.org/abs/2405.18881" style="display: inline-block; padding: 8px 15px; margin: 5px; background-color: #007BFF; color: white; border-radius: 5px; text-decoration: none;">Paper</a>
+
+
 - "Accelerating Parallel Sampling of Diffusion Models", **ICML 2024**
 
   <u>Zhiwei Tang</u>, Jiasheng Tang, Hao Luo, Fan Wang, Tsung-Hui Chang

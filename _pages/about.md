@@ -54,14 +54,14 @@ My research interest includes neural machine translation and computer vision. I 
 
   <u>Zhiwei Tang</u>, Jiasheng Tang, Hao Luo, Fan Wang, Tsung-Hui Chang
 
-  <a href="https://arxiv.org/abs/2402.09970" style="display: inline-block; padding: 8px 15px; margin: 5px; background-color: #007BFF; color: white; border-radius: 5px; text-decoration: none;">Paper</a> <a href="https://github.com/TZW1998/ParaTAA-Diffusion" style="display: inline-block; padding: 8px 15px; margin: 5px; background-color: #007BFF; color: white; border-radius: 5px; text-decoration: none;">Code</a>
+  <a href="https://arxiv.org/abs/2402.09970" style="display: inline-block; padding: 8px 15px; margin: 5px; background-color: #007BFF; color: white; border-radius: 5px; text-decoration: none;">Paper</a> <a href="https://github.com/TZW1998/ParaTAA-Diffusion" style="display: inline-block; padding: 8px 15px; margin: 5px; background-color: #FFD700; color: white; border-radius: 5px; text-decoration: none;">Code</a>
 
 
 - "Zeroth-Order Optimization Meets Human Feedback: Provable Learning via Ranking Oracles", **ICLR 2024**
 
   <u>Zhiwei Tang</u>, Dmitry Rybin, Tsung-Hui Chang
 
-  <a href="https://openreview.net/pdf/120f6a88f789639b88a7a1d19b56c2c13c15d81a.pdf" style="display: inline-block; padding: 8px 15px; margin: 5px; background-color: #007BFF; color: white; border-radius: 5px; text-decoration: none;">Paper</a> <a href="https://github.com/TZW1998/Taming-Stable-Diffusion-with-Human-Ranking-Feedback" style="display: inline-block; padding: 8px 15px; margin: 5px; background-color: #007BFF; color: white; border-radius: 5px; text-decoration: none;">Code</a>
+  <a href="https://openreview.net/pdf/120f6a88f789639b88a7a1d19b56c2c13c15d81a.pdf" style="display: inline-block; padding: 8px 15px; margin: 5px; background-color: #007BFF; color: white; border-radius: 5px; text-decoration: none;">Paper</a> <a href="https://github.com/TZW1998/Taming-Stable-Diffusion-with-Human-Ranking-Feedback" style="display: inline-block; padding: 8px 15px; margin: 5px; background-color: #FFD700; color: white; border-radius: 5px; text-decoration: none;">Code</a>
 
 
 - "$z$-SignFedAvg: A Unified Stochastic Sign-based Compression for Federated Learning", **AAAI 2024**

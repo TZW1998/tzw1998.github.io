@@ -27,10 +27,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉 Just made my homepage...
+- *2024.05*: &nbsp; Hello there! I've just launched my homepage to share my journey in Machine Learning.
  
 
-# 📝 Publications and Preprints
+# 📝 Selected Publications
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -46,17 +46,20 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+For my full publication list, please see my [google scholar](https://scholar.google.com/citations?user=GN-N9c8AAAAJ&hl=en) or my [CV](assets/resume.pdf).
+
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - Present*, PhD in Computer Science, The Chinese University of Hong Kong, Shenzhen, China
+- *2016.09 - 2020.07*, BS in Statistics, Sun Yat-sen University, Guangzhou, China
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.10 - 2024.06*, Research Intern, Damo Academy, Alibaba Group, Hangzhou, China.
+- *2019.10 - 2020.07*, Research Intern, SenseTime Group, Shenzhen, China.

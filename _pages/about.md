@@ -32,11 +32,12 @@ TBA
 
 
 # 🔥 News
+<span class='anchor' id='-news'></span>
 - *2024.05*: &nbsp;🎉🎉 Hello there! I've just launched my homepage to share my journey in Machine Learning.
  
 
 # 📝 Featured Publications
-
+<span class='anchor' id='-publications'></span>
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -91,6 +92,7 @@ For my full publication list, please see my [google scholar](https://scholar.goo
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
+<span class='anchor' id='-educations'></span>
 - *2020.09 - Present*, PhD in Computer Science, The Chinese University of Hong Kong, Shenzhen, China
 - *2016.09 - 2020.07*, BS in Statistics, Sun Yat-sen University, Guangzhou, China
 
@@ -99,10 +101,12 @@ For my full publication list, please see my [google scholar](https://scholar.goo
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
+<span class='anchor' id='-internships'></span>
 - *2023.10 - 2024.06*, Research Intern, Damo Academy, Alibaba Group, Hangzhou, China.
 - *2019.10 - 2020.07*, Research Intern, SenseTime Group, Shenzhen, China.
 
 # 🔍 Review Service
+<span class='anchor' id='-review'></span>
 - NeurIPS 2021-2024
 - ICLR 2024
 - ICML 2022-2024

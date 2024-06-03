@@ -44,19 +44,24 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div> -->
 - "Tuning-Free Alignment of Diffusion Models with Direct Noise Optimization", **Preprint**
--- <u>Zhiwei Tang</u>, Jiangweizhi Peng, Jiasheng Tang, Mingyi Hong, Fan Wang, Tsung-Hui Chang
+
+&nbsp; <u>Zhiwei Tang</u>, Jiangweizhi Peng, Jiasheng Tang, Mingyi Hong, Fan Wang, Tsung-Hui Chang
 
 - "Accelerating Parallel Sampling of Diffusion Models", **ICML 2024**
---  <u>Zhiwei Tang</u>, Jiasheng Tang, Hao Luo, Fan Wang, Tsung-Hui Chang
+
+&nbsp; <u>Zhiwei Tang</u>, Jiasheng Tang, Hao Luo, Fan Wang, Tsung-Hui Chang
 
 - "Zeroth-Order Optimization Meets Human Feedback: Provable Learning via Ranking Oracles", **ICLR 2024**
--- <u>Zhiwei Tang</u>, Dmitry Rybin, Tsung-Hui Chang
+
+&nbsp; <u>Zhiwei Tang</u>, Dmitry Rybin, Tsung-Hui Chang
 
 - "$z$-SignFedAvg: A Unified Stochastic Sign-based Compression for Federated Learning", **AAAI 2024**
--- <u>Zhiwei Tang</u>, Yanmeng Wang, Tsung-Hui Chang
+
+&nbsp; <u>Zhiwei Tang</u>, Yanmeng Wang, Tsung-Hui Chang
 
 - "Low-Rank Matrix Recovery With Unknown Correspondence", **UAI 2023**
--- <u>Zhiwei Tang</u>, Tsung-Hui Chang, Xiaojing Ye, Hongyuan Zha
+
+&nbsp; <u>Zhiwei Tang</u>, Tsung-Hui Chang, Xiaojing Ye, Hongyuan Zha
 
 For my full publication list, please see my [google scholar](https://scholar.google.com/citations?user=GN-N9c8AAAAJ&hl=en) or my [CV](assets/resume.pdf).
 

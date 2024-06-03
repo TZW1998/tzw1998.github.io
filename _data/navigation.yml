@@ -3,17 +3,14 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "About My Research"
+  - title: "My Research"
     url: "/#-research"
 
   - title: "News"
     url: "/#-news"
 
-  - title: "Featured Publications"
+  - title: "Publications"
     url: "/#-publications"
-
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
 
   - title: "Educations"
     url: "/#-educations"
@@ -21,5 +18,5 @@ main:
   - title: "Internships"
     url: "/#-internships"
 
-  - title: "Review Service"
+  - title: "Service"
     url: "/#-review"

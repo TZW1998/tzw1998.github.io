@@ -30,7 +30,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2024.05*: &nbsp;🎉🎉 Hello there! I've just launched my homepage to share my journey in Machine Learning.
  
 
-# 📝 Featured Publications (or Preprints)
+# 📝 Featured Publications
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -43,15 +43,20 @@ My research interest includes neural machine translation and computer vision. I 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
-- "Tuning-Free Alignment of Diffusion Models with Direct Noise Optimization" <u>Zhiwei Tang</u>, Jiangweizhi Peng, Jiasheng Tang, Mingyi Hong, Fan Wang, Tsung-Hui Chang, **Preprint**
+- "Tuning-Free Alignment of Diffusion Models with Direct Noise Optimization", **Preprint**
+-- <u>Zhiwei Tang</u>, Jiangweizhi Peng, Jiasheng Tang, Mingyi Hong, Fan Wang, Tsung-Hui Chang
 
-- "Accelerating Parallel Sampling of Diffusion Models", <u>Zhiwei Tang</u>, Jiasheng Tang, Hao Luo, Fan Wang, Tsung-Hui Chang, **ICML 2024**
+- "Accelerating Parallel Sampling of Diffusion Models", **ICML 2024**
+--  <u>Zhiwei Tang</u>, Jiasheng Tang, Hao Luo, Fan Wang, Tsung-Hui Chang
 
-- "Zeroth-Order Optimization Meets Human Feedback: Provable Learning via Ranking Oracles", <u>Zhiwei Tang</u>, Dmitry Rybin, Tsung-Hui Chang, **ICLR 2024**
+- "Zeroth-Order Optimization Meets Human Feedback: Provable Learning via Ranking Oracles", **ICLR 2024**
+-- <u>Zhiwei Tang</u>, Dmitry Rybin, Tsung-Hui Chang
 
-- "$z$-SignFedAvg: A Unified Stochastic Sign-based Compression for Federated Learning", <u>Zhiwei Tang</u>, Yanmeng Wang, Tsung-Hui Chang, **AAAI 2024**
+- "$z$-SignFedAvg: A Unified Stochastic Sign-based Compression for Federated Learning", **AAAI 2024**
+-- <u>Zhiwei Tang</u>, Yanmeng Wang, Tsung-Hui Chang
 
-- "Low-Rank Matrix Recovery With Unknown Correspondence", <u>Zhiwei Tang</u>, Tsung-Hui Chang, Xiaojing Ye, Hongyuan Zha **UAI 2023**
+- "Low-Rank Matrix Recovery With Unknown Correspondence", **UAI 2023**
+-- <u>Zhiwei Tang</u>, Tsung-Hui Chang, Xiaojing Ye, Hongyuan Zha
 
 For my full publication list, please see my [google scholar](https://scholar.google.com/citations?user=GN-N9c8AAAAJ&hl=en) or my [CV](assets/resume.pdf).
 

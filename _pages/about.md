@@ -32,9 +32,7 @@ Throughout my PhD studies, I've focused on creating new optimization theories an
 
 **(2) Learning Your Optimization Problem from Data** 
 
-**(3) Useful Optimization Tricks** Proper optimization tricks can lead to unreasonable effectivness in some machine learning applicataions. For eaxmple, one can leverage entropic-regularzied optimal transport for smooting the optimization over permutation [Tang et al. UAI 2023](https://proceedings.mlr.press/v216/tang23a.html), and also one can speedup the sampling of diffusion models by using techniques from speeding up solving nonlinear equations.
-
-Proper optimization tricks can lead to surprisingly effective results in some machine learning applications. For example, entropic-regularized optimal transport can be used for smoothing optimization over permutations [Tang et al. UAI 2023](https://proceedings.mlr.press/v216/tang23a.html), and techniques from solving nonlinear equations can expedite the sampling of diffusion models [Tang et al. ICML 2024](https://arxiv.org/abs/2402.09970).
+**(3) Useful Optimization Tricks** Proper optimization tricks can lead to unreasonable effectivness in some machine learning applications. For example, entropic-regularized optimal transport can be used for smoothing optimization over permutations [Tang et al. UAI 2023](https://proceedings.mlr.press/v216/tang23a.html), and techniques from solving nonlinear equations can expedite the sampling of diffusion models [Tang et al. ICML 2024](https://arxiv.org/abs/2402.09970).
 
 <span style="color: red;">I am open to research collaborations and discussions, as well as opportunities in industry. Please don't hesitate to contact me!</span>
 

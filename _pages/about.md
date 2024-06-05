@@ -18,7 +18,7 @@ redirect_from:
 # 🧑‍💻️ About Me
 <span class='anchor' id='about-me'></span>
 
-TBA
+I was born and raised in Shenzhen, one of the largest cities in China, on December 5, 1998. Currently, I am a final-year PhD student in Computer Science at The Chinese University of Hong Kong, Shenzhen. Before pursuing my PhD degree, I obtained my bachelor's degree in Statistics from Sun Yat-sen University, Guangzhou, China, in 2020. I love math, coding, and sports.
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
@@ -26,7 +26,15 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 💬 About My Research
 <span class='anchor' id='-research'></span>
-TBA
+Over the years during my PhD studies, I have mainly focused on developing new optimization theories and algorithms for addressing emerging challenges in modern machine learning applications. These applications span across privacy-preserving machine learning, distributed optimization, and also include a particular focus on vision generative models. From a high-level perspective, there are three important mindsets behind all my research, and I would like to share them with you.
+
+**(1) Optimization with Imperfect Function Feedback** Solving an optimization problem typically involves maximizing or minimizing an objective function, usually utilizing the feedback of the objective function for optimization. The most common forms of objective function feedback are its value information or gradient information. However, in many applications, it may be difficult to obtain perfect function feedback. For example, in distributed optimization, to increase communication efficiency between multiple computing devices, one must compress the function feedback [Tang et al. AAAI 2024](https://ojs.aaai.org/index.php/AAAI/article/view/29454/30740). Another interesting problem arises from a trending issue, learning from human feedback, where it is challenging to directly compute the function value if the objective function is based on human evaluation. Instead, it is only possible to receive ranking feedback [Tang et al. ICLR 2024](https://openreview.net/pdf/120f6a88f789639b88a7a1d19b56c2c13c15d81a.pdf). In the two pieces of research I mentioned, to tackle the challenge of imperfect function feedback, a general high-level idea is to try to estimate the ground-truth gradient information from this imperfect function feedback as accurately as we can with the help of statistical techniques, and then use this estimated gradient for optimization.
+
+**(2) Learning Your Optimization Problem from Data** 
+
+**(3) Useful Optimization Tricks** 
+
+<span style="color: red;">I am open to research collaborations and discussions, as well as opportunities in industry. Please don't hesitate to contact me!</span>
 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->

@@ -121,7 +121,7 @@ For my full publication list, please see my [google scholar](https://scholar.goo
 
 # 💻 Internships
 <span class='anchor' id='-internships'></span>
-- *2024.7 - Present*, Applied Scientist Intern, AGI Foundations Team, Amazon, Sunnyvale, USA.
+- *2024.07 - Present*, Applied Scientist Intern, AGI Foundations Team, Amazon, Sunnyvale, USA.
 - *2023.10 - 2024.06*, Research Intern, Damo Academy, Alibaba Group, Hangzhou, China.
 - *2019.10 - 2020.07*, Research Intern, SenseTime Group, Shenzhen, China.
 

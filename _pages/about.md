@@ -42,15 +42,12 @@ Recently, I have been shifting part of my research focus to the post-training of
 
 **(3) Useful Optimization Tricks.** Proper optimization tricks can lead to unreasonable effectivness in some machine learning applications. For example, entropy-regularized optimal transport can be used for smoothing optimization over permutations [Tang et al. UAI 2023](https://proceedings.mlr.press/v216/tang23a.html), and techniques from solving nonlinear equations can expedite the sampling of diffusion models [Tang et al. ICML 2024](https://arxiv.org/abs/2402.09970). -->
 
-<span style="color: red;">I am open to research collaborations and discussions, as well as opportunities in industry. Please don't hesitate to contact me!</span>
 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 
 # 🔥 News
-<span class='anchor' id='-news'></span>
-- *2024.07*: &nbsp; I join the AGI Foundations team in Amazon as an Applied Scientist Intern. I will be mainly working on posting training for multi-modal LLM.
 - *2024.05*: &nbsp;🎉🎉 Hello there! I've just launched my homepage to share my journey in Machine Learning.
  
 
@@ -119,11 +116,6 @@ For my full publication list, please see my [google scholar](https://scholar.goo
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-<span class='anchor' id='-internships'></span>
-- *2024.07 - Present*, Applied Scientist Intern, AGI Foundations Team, Amazon, Sunnyvale, USA.
-- *2023.10 - 2024.06*, Research Intern, Damo Academy, Alibaba Group, Hangzhou, China.
-- *2019.10 - 2020.07*, Research Intern, SenseTime Group, Shenzhen, China.
 
 # 🔍 Review Service
 <span class='anchor' id='-review'></span>

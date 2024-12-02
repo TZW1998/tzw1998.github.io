@@ -18,9 +18,9 @@ redirect_from:
 # 🧑‍💻️ About Me
 <span class='anchor' id='about-me'></span>
 
-I was born and raised in Shenzhen, a beautiful seaside city in China, in 1998. Currently, I am a final-year PhD student in Computer Science at The Chinese University of Hong Kong, Shenzhen. Prior to pursuing my PhD, I earned my bachelor's degree in Statistics from Sun Yat-sen University in Guangzhou, China, in 2020. My passions include mathematics, coding, and sports.
+Currently, I am a final-year PhD student in Computer Science at The Chinese University of Hong Kong, Shenzhen. Prior to pursuing my PhD, I earned my bachelor's degree in Statistics from The School of Mathematics, Sun Yat-sen University, in 2020. 
 
-I have also had the privilege of interning at notable organizations such as SenseTime, Damo Academy, Alibaba, and Amazon, where I gained valuable experience and insights on Reinforcement Learning, Optimization and Generative AI.
+I have also had the privilege of interning at notable organizations such as SenseTime, Alibaba, and Amazon, where I gained valuable experience and insights on Reinforcement Learning, Optimization and Generative Models.
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
@@ -32,9 +32,9 @@ Throughout my PhD studies, I have focused on tackling challenges in modern machi
 
 One line of my research spans new techniques for combinatorial optimization, as demonstrated in [Tang et al. UAI 2023](https://proceedings.mlr.press/v216/tang23a.html), and distributed optimization, as seen in [Tang et al. AAAI 2024](https://ojs.aaai.org/index.php/AAAI/article/view/29454/30740).
 
-Since 2022, I have also delved into the research of Generative AI, particularly Diffusion Generative Models. I have led several intriguing research projects in this area, including post-training and Reinforcement Learning with Human Feedback (RLHF) for diffusion models, as detailed in [Tang et al. ICLR 2024](https://openreview.net/pdf/120f6a88f789639b88a7a1d19b56c2c13c15d81a.pdf) and [Tang et al. 2024 Preprint](https://arxiv.org/abs/2405.18881). Additionally, I have explored advanced techniques from solving nonlinear equations to expedite the sampling of diffusion models, as presented in [Tang et al. ICML 2024](https://arxiv.org/abs/2402.09970).
+I have also delved into the research of Generative AI, particularly Diffusion Generative Models. I have led several intriguing research projects in this area, including post-training and Reinforcement Learning with Human Feedback (RLHF) for diffusion models, as detailed in [Tang et al. ICLR 2024](https://openreview.net/pdf/120f6a88f789639b88a7a1d19b56c2c13c15d81a.pdf) and [Tang et al. 2024 Preprint](https://arxiv.org/abs/2405.18881). Additionally, I have explored advanced techniques from solving nonlinear equations to expedite the sampling of diffusion models, as presented in [Tang et al. ICML 2024](https://arxiv.org/abs/2402.09970).
 
-Recently, I have been shifting part of my research focus to the post-training of multi-modal large language models (LLMs) and their intersection with diffusion models.
+Recently, I have been focusing on developing more advanced post-training techniques for multi-modal LLMs and diffusion models, aiming to unlock more potential capabilities inherent in the pre-trained models.
 
 <!-- **(1) Optimization with Imperfect Function Feedback.** In many settings, obtaining perfect function feedback, like gradient or value, can be challenging. For example, distributed optimization requires compressing function feedback to improve communication efficiency between devices [Tang et al. AAAI 2024](https://ojs.aaai.org/index.php/AAAI/article/view/29454/30740), or optimizing with human ranking feedback for AI-generated content [Tang et al. ICLR 2024](https://openreview.net/pdf/120f6a88f789639b88a7a1d19b56c2c13c15d81a.pdf). The high-level idea behind these studies is to accurately estimate the ground-truth gradient from imperfect feedback using statistical techniques, then applying this estimation in optimization.
 
@@ -65,7 +65,7 @@ Recently, I have been shifting part of my research focus to the post-training of
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
-- "Tuning-Free Alignment of Diffusion Models with Direct Noise Optimization", **Preprint (A short version in 2nd SPIGM workshop @ ICML 2024)**
+- "Inference-Time Alignment of Diffusion Models with Direct Noise Optimization", **Preprint (A short version in 2nd SPIGM workshop @ ICML 2024)**
 
   <u>Zhiwei Tang</u>, Jiangweizhi Peng, Jiasheng Tang, Mingyi Hong, Fan Wang, Tsung-Hui Chang
 
@@ -109,17 +109,23 @@ For my full publication list, please see my [google scholar](https://scholar.goo
 
 # 📖 Educations
 <span class='anchor' id='-educations'></span>
-- *2020.09 - Present*, PhD in Computer Science, The Chinese University of Hong Kong, Shenzhen, China
+- *2020.09 - 2025.03*, PhD in Computer Science, The Chinese University of Hong Kong, Shenzhen, China
 - *2016.09 - 2020.07*, BS in Statistics, Sun Yat-sen University, Guangzhou, China
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
+# 💻 Internships
+<span class='anchor' id='-internships'></span>
+- *2024.07 - 2024.11*, Applied Scientist Intern, AGI Foundations Team, Amazon, Sunnyvale, USA.
+- *2023.10 - 2024.06*, Research Intern, Damo Academy, Alibaba Group, Hangzhou, China.
+- *2019.10 - 2020.07*, Research Intern, SenseTime Group, Shenzhen, China.
+
 
 # 🔍 Review Service
 <span class='anchor' id='-review'></span>
 - NeurIPS 2021-2024
-- ICLR 2024
+- ICLR 2023-2024
 - ICML 2022-2024
 - ICASSP 2022-2023

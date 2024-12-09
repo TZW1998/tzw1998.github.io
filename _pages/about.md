@@ -20,7 +20,7 @@ redirect_from:
 
 Currently, I am a final-year PhD student in Computer Science at The Chinese University of Hong Kong, Shenzhen. Prior to pursuing my PhD, I earned my bachelor's degree in Statistics from The School of Mathematics, Sun Yat-sen University, in 2020. 
 
-I have also had the privilege of interning at notable organizations such as SenseTime, Alibaba, and Amazon, where I gained valuable experience and insights on Reinforcement Learning, Optimization and Generative Models.
+I have also had the privilege of working at notable organizations such as SenseTime, Alibaba, and Amazon, where I gained valuable experience and insights on Reinforcement Learning, Optimization and Generative Models.
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
@@ -112,15 +112,7 @@ For my full publication list, please see my [google scholar](https://scholar.goo
 - *2020.09 - 2025.03*, PhD in Computer Science, The Chinese University of Hong Kong, Shenzhen, China
 - *2016.09 - 2020.07*, BS in Statistics, Sun Yat-sen University, Guangzhou, China
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-<span class='anchor' id='-internships'></span>
-- *2024.07 - 2024.11*, Applied Scientist Intern, AGI Foundations Team, Amazon, Sunnyvale, USA.
-- *2023.10 - 2024.06*, Research Intern, Damo Academy, Alibaba Group, Hangzhou, China.
-- *2019.10 - 2020.07*, Research Intern, SenseTime Group, Shenzhen, China.
 
 
 # 🔍 Review Service

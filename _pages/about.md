@@ -101,7 +101,7 @@ Recently, I have been focusing on developing more advanced post-training techniq
 
   <a href="https://proceedings.mlr.press/v216/tang23a.html" style="display: inline-block; padding: 8px 15px; margin: 5px; background-color: #007BFF; color: white; border-radius: 5px; text-decoration: none;">Paper</a>
 
-For my full publication list, please see my [google scholar](https://scholar.google.com/citations?user=GN-N9c8AAAAJ&hl=en) or my [CV](assets/resume.pdf).
+For my full publication list, please see my [google scholar](https://scholar.google.com/citations?user=GN-N9c8AAAAJ&hl=en).
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
